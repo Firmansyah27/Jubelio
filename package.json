@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.0.0",
+    "bluebird": "^3.7.2",
+    "dotenv": "^16.0.3",
+    "hapi-pg-promise": "^2.0.0",
+    "joi": "^17.7.0",
+    "pg-promise": "^10.15.3"
+  }
+}
