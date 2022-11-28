@@ -9,7 +9,8 @@ http://localhost:3001
 
 ### `Run Migrations`
 Create database name `jubelio`
-Run migrations [file] (https://github.com/Firmansyah27/jubelio-be/blob/master/migrations/001_create_products_table.sql) for create products table
+Run [migrations file] (https://github.com/Firmansyah27/jubelio-be/blob/master/migrations/001_create_products_table.sql) for creating products table
+[deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `Create .env file`
 ```
